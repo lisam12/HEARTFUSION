@@ -13,7 +13,7 @@ pour le rinçage et la perfusion ex vivo de l'organe, lorsqu'elle est associée 
 Cette technologie permet d'augmenter le nombre de donneurs d'organes actuels, d'améliorer la survie des patients
 et de réduire les complications post-transplantation.
 
-Le fonctionnement de la machine étape par étape doit se passer commme ceci :
+**Le fonctionnement de la machine étape par étape doit se passer commme ceci :**
 
 1. Le coeur doit etre sorti du corps et branché sur la caissette stérile unitaire de perfusion. 
   1L de sang doit etre prélevé du donneur pour le fonctionnment de la perfusion
