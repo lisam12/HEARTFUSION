@@ -25,3 +25,9 @@ Actuellement, les transports du coeur sont très compliqués :
 --> 60% des coeurs ne peuvent pas être transporté en ischémie froide (dans la glace)
 
 Des recherches scientifiques ont déjà été menées et elles ont montrées qu'un tel système permettrait d'augmenter d'environ 30% le nombre de greffe du coeur (transplantation réussie)
+
+Pour palier ces contraintes, il faut que notre dispositif puisse : 
+1) Maintenir le cœur en état de battement pendant tout le transport. Cela permet de maintenir un flux sanguin et une oxygénation adéquats, minimisant ainsi l'ischémie froide et préservant la fonction cardiaque.
+2) Evaluation en temps réél --> surveillance de la fonction cardiaque, du débit sanguin, de l'oxygénation et d'autres paramètres permettant à l'équipe médical de réagir rapidement. 
+3) Permettre une durée de transport prolongée --> essentiel lorsque les donneurs et les receveurs se trouvent à une distance considérable les uns des autres = cela augmente les possibilités de transplantation en élargissant la portée géographique.
+4) Fournir un environnement de transport optimal pour chaque cœur --> réduire la variabilité entre les donneurs + améliorer la qualité de l'organe transplanté.
