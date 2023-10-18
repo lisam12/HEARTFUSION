@@ -15,6 +15,8 @@ et de réduire les complications post-transplantation.
 
 Le fonctionnement de la machine étape par étape doit se passer commme ceci :
 
-1. Le coeur doit etre sorti du corps et branché sur la caissette stérile unitaire de perfusion. 1L de sang doit etre prélevé du donneur  
+1. Le coeur doit etre sorti du corps et branché sur la caissette stérile unitaire de perfusion. 
+  1L de sang doit etre prélevé du donneur pour le fonctionnment de la perfusion
+2. Une pompe a galets s'occupe de faire ciculer le sang dans le coeur en le faisait passer au préalable dans un oxygénateur 
 
 
