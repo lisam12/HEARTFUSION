@@ -1,4 +1,4 @@
-Séance du 11_10 (recherches) :
+**Séance du 11_10 (recherches)** :
 
 Le transport du cœur dans le cadre d'une transplantation d'organe est soumis à plusieurs contraintes importantes pour garantir le succès de la transplantation et la viabilité de l'organe. 
 1. Temps d'ischémie chaude : L'ischémie chaude est la période pendant laquelle le cœur est déconnecté de sa source de sang avant la transplantation. Il est essentiel de minimiser ce temps pour éviter des dommages irréparables à l'organe. En général, le temps d'ischémie chaude devrait être maintenu aussi court que possible, idéalement moins de 4 heures.
@@ -12,7 +12,7 @@ Le transport du cœur dans le cadre d'une transplantation d'organe est soumis à
 
 
 
-Séance du 18_10 (contraintes) :
+**Séance du 18_10 (contraintes)** :
 
 Dans le cadre de notre projet, le but est de créer un dipositif médical capable de répondre aux contraintes du transport.
 Il faut que notre dispositif soit capable de :
