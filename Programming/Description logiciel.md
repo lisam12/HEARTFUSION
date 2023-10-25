@@ -1,5 +1,5 @@
-Pour le projet on ne code pas, on doit simlpement décrire les classes du code + les tests unitaires. On peu parler de classe sous classe si certaines sont relié. 
-+ il faut penser à détailler comment elles sont relié si c'est le cas. 
+Pour le projet on ne code pas, on doit simlpement décrire les classes du code + les tests unitaires. On peut parler de classe sous classe si certaines sont reliées. 
++ il faut penser à détailler comment elles sont reliées si c'est le cas. 
 
 Pour les classes du code par exemple : 
 Classe détectuer de Température : Si la température est inférieur à 8 degrès on ne fait rien, si elle dépasse le seuil de 8.6degrès on refroid le coeur. 
