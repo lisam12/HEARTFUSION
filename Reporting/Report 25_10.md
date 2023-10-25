@@ -48,6 +48,7 @@ Initiative : nous avons décidé de créer un document "Normes" dans le dossier 
 • Vérifier les valeurs trouvées pour les constantes et contraintes 
 • Analyse des risques
 • Spécifications techniques : Aspect mécanique et électronique à approfondir (quelle carte on utilise pour la communication, quels capteurs on va utiliser...)
+• Louis doit faire l'audit avant la prochaine séance (bon courage loulou)
 
 
 
