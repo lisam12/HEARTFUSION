@@ -1,4 +1,0 @@
-Unit Test : On teste la séquence dans des circonstances variées. Par exemple pour IRM, si on met un FOV à 100%, vérifier si tout s'affiche bien sur tous les IRMS.
-Par exemple pour les programmes pythons, quelles librairies utilisées, si on change de version, si on change de librairie. Mouvance de l'intégration continue.
-Ce sont des programmes qui testent nos programmes.
-Si on veut injecter plus que prévu sur une pompe à injection, il faut qu'elle dise non
