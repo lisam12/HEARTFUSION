@@ -32,13 +32,12 @@ Taches à réaliser aujourd'hui (Kenza et Lisa) :
 2ème : Que ne doit pas faire notre objet ?
 Savoir ce que notre dispositif doit être capable de faire / ce qu'il ne doit pas faire (exemple : maintenir le coeur à une fréquence cardiaque normale, fournir un environnement clos...) 
 
-Modélisation du modèle : On reprend les fonctionalités qui existent dans les appreils existants et on défini lesquels on veut garder et lesquels on change = cahier des charges electronique et mécanique. 
-
 Nous devons mettre en évidence les différents Units Tests à réaliser et penser également aux futurs Units Tests 
 
 --> Toutes nos avancées sont dans le document "Description Logiciel" ainsi que dans le document "Units Tests" dans le dossier Reporting
 
 Initiative : nous avons décidé de créer un document "Normes" dans le dossier Documentation afin de répertorier toutes les normes / règles à respecter. En effet, ce type de dispositif médical nécessite une étude rigoureuse des normes.
+--> Nous avons commencé à étuder la fonction d'ajout de nutriment afin de mieux préserver le coeur (document "Constantes et contraintes", dossier Documentation)
  
 
 **A faire pour la prochaine séance :**
