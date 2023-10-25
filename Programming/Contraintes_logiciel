@@ -9,6 +9,7 @@ les données médicales sensibles.
 
 Traçabilité : Le logiciel doit être capable de suivre chaque étape du transport du cœur, en enregistrant toutes les données pertinentes et en assurant une traçabilité complète. 
 Cela est essentiel pour l'audit et la responsabilité en cas d'incident.
+On va devoir équiper la machine d'un gps 
 
 Sauvegardes et redondance : Le logiciel doit être conçu avec des mécanismes de sauvegarde et de redondance pour minimiser les risques de défaillance. 
 Par exemple, il peut avoir des systèmes de secours en cas de panne.
