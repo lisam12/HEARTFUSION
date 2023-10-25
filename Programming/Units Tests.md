@@ -24,4 +24,4 @@
    - Vérification des fonctions d'auto-diagnostic pour détecter les éventuelles défaillances internes.
    - Tests de maintenance préventive pour s'assurer que la machine peut être entretenue régulièrement sans compromettre son fonctionnement.
 
-Il est important de personnaliser ces tests en fonction des spécifications exactes de notre machine.
+
