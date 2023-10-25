@@ -1,4 +1,4 @@
-Report de la journée de 25.10
+**Report de la journée de 25.10**
 
 Il faut travailler sur la reproduction du modèle physique, en modèle d'une application.
 Pour la prochaine soutenance il faut que notre exposé soit meilleur que celle de marie, halima, emilie.
@@ -18,4 +18,10 @@ logiciel :
 fonctionnalité de chaque classe du code (sans faire de code) 
 test unitaire : qui va tester notre programme, jusqu'a quand on injecte, quand on stope par exemple. Faire teste unitaire pour chaque capteur. 
 + préciser quand les test unitaires sont utilisé.
-+ + autre exemple : 
++ + autre exemple :
+ 
+
+**A faire pour la prochaine séance :**
+
+
+
