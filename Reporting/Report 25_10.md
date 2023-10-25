@@ -37,6 +37,8 @@ Modélisation du modèle : On reprend les fonctionalités qui existent dans les 
 Nous devons mettre en évidence les différents Units Tests à réaliser et penser également aux futurs Units Tests 
 
 --> Toutes nos avancées sont dans le document "Description Logiciel" ainsi que dans le document "Units Tests" dans le dossier Reporting
+
+Initiative : nous avons décidé de créer un document "Normes" dans le dossier Documentation afin de répertorier toutes les normes / règles à respecter. En effet, ce type de dispositif médical nécessite une étude rigoureuse des normes.
  
 
 **A faire pour la prochaine séance :**
