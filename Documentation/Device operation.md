@@ -18,5 +18,5 @@ et de réduire les complications post-transplantation.
 1. Le coeur doit etre sorti du corps et branché sur la caissette stérile unitaire de perfusion. 
   1L de sang doit etre prélevé du donneur pour le fonctionnment de la perfusion
 2. Une pompe a galets s'occupe de faire ciculer le sang dans le coeur en le faisait passer au préalable dans un oxygénateur 
-
+3.La console régule la température, la pression, le débit et le pH du sang artificiel en fonction des besoins spécifiques de l’organe. Elle surveille également les paramètres physiologiques de l’organe grâce à des capteurs
 
