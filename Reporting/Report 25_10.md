@@ -47,7 +47,7 @@ Initiative : nous avons décidé de créer un document "Normes" dans le dossier 
 • Faire une vraie modélisation de notre dispositif ? 
 • Vérifier les valeurs trouvées pour les constantes et contraintes 
 • Analyse des risques
-• 
+• Spécifications techniques : Aspect mécanique et électronique à approfondir (quelle carte on utilise pour la communication, quels capteurs on va utiliser...)
 
 
 
