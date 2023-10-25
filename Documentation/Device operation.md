@@ -18,5 +18,7 @@ et de réduire les complications post-transplantation.
 1. Le coeur doit etre sorti du corps et branché sur la caissette stérile unitaire de perfusion. 
   1L de sang doit etre prélevé du donneur pour le fonctionnment de la perfusion
 2. Une pompe a galets s'occupe de faire ciculer le sang dans le coeur en le faisait passer au préalable dans un oxygénateur 
-3.La console régule la température, la pression, le débit et le pH du sang artificiel en fonction des besoins spécifiques de l’organe. Elle surveille également les paramètres physiologiques de l’organe grâce à des capteurs
+3.La console régule la température, la pression, le débit et le pH du sang artificiel en fonction des besoins spécifiques de l’organe. Elle surveille également les paramètres physiologiques de l’organe grâce à des capteurs et grace au partenaire BostonScientific, on réalise une cartographie 3D du coeur pour comprendre son fonctionnement et ses spécificité avec son modèle numérique. Ce qui pourra indiquer une action à réaliser avant la greffe comme une coronarographie ou autre.
+4.La console enregistre et affiche les données relatives à l’état de l’organe. Elle alerte le personnel médical en cas d’anomalie ou de dysfonctionnement.
+5.L’organe est transporté dans la machine jusqu’au centre de transplantation. Il est ensuite implanté chez le receveur selon les procédures habituelles.
 
