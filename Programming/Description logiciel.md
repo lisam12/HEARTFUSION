@@ -11,31 +11,48 @@ Par exemple pour les programmes pythons, quelles librairies utilisées, si on ch
 Ce sont des programmes qui testent nos programmes.
 Si on veut injecter plus que prévu sur une pompe à injection, il faut qu'elle dise non. 
 
-La conception logicielle d'une machine comme TransMedics implique la création de classes et de sous-classes qui représentent les différents composants et fonctionnalités de la machine. Voici un exemple simplifié de certaines classes et sous-classes que vous pourriez considérer dans la conception logicielle d'une telle machine :
 
-1. **Classe MachineDeMaintienDeCoeur :**
-   - Cette classe représente la machine dans son ensemble et peut contenir des méthodes et des propriétés pour contrôler les différents composants.
 
-2. **Sous-classes pour les Composants Principaux :**
-   - **Classe SystemeDeControleDeTemperature :**
-     - Cette classe gère le contrôle de la température du cœur. Elle pourrait avoir des méthodes pour régler la température et surveiller les capteurs de température.
+• Travail de l'après-midi : établir une liste de classe et sous classe qui permettront à notre DM de fonctionner et de passer les différents Units Tests
 
-   - **Classe SystemeDeControleDePression :**
-     - Cette classe gère le contrôle de la pression dans la machine. Elle pourrait avoir des méthodes pour régler la pression et surveiller les capteurs de pression.
+**1) Classe MachineMaintienDuCoeur**
+C'est la classe principale, elle représente la machine dans son ensemble et contrôle les liens entre les différents composants.
 
-   - **Classe SystemeDeCommunication :**
-     - Cette classe gère les protocoles de communication avec d'autres systèmes médicaux. Elle pourrait avoir des méthodes pour envoyer et recevoir des données.
+**2) CLasse Capteurs**
+Cette classe permettra de vérifier les paramètres de tous nos différents capteurs
+On va donc créer une sous-classe par capteurs nécessaires au bon fonctionnement de notre DM
 
-3. **Sous-classes pour les Fonctionnalités de Sécurité :**
-   - **Classe SystemeDAlarme :**
-     - Cette classe gère les alarmes en cas de variations de température ou de pression hors des plages acceptables. Elle pourrait avoir des méthodes pour déclencher des alarmes et informer le personnel médical.
+   **Sous-classe DétecteurTempérature**
+   Cette sous-classe permet de gérer le contrôle de la température du coeur.
 
-   - **Classe SystemeDArretUrgence :**
-     - Cette classe gère les protocoles d'arrêt d'urgence. Elle pourrait avoir des méthodes pour mettre la machine hors tension en cas d'urgence.
+   **Sous-classe DétecteurHumidité**
+   Cette sous-classe permet de gérer le taux d'humidité au sein de la machine.
+   Taux entre 30 et 60%.
 
-4. **Sous-classes pour la Maintenance et les Diagnostics :**
-   - **Classe SystemeDiagnostics :**
-     - Cette classe gère les fonctions d'auto-diagnostic. Elle pourrait avoir des méthodes pour effectuer des tests internes et détecter les défaillances.
+   **Sous-classe DétecteurPression**
+   Cette sous-classe permet de gérer le contrôle de la pression au sein de la machine et vérifier qu'on ne dépasse jamais les seuils préconisés.
 
-   - **Classe SystemeDeMaintenancePreventive :**
-     - Cette classe gère les tâches de maintenance préventive. Elle pourrait avoir des méthodes pour planifier et effectuer des opérations de maintenance régulières.
+
+**3) Classe Sécurité**
+Cette classe va permettre de gérer tous les systèmes de sécurité du dispositif
+Elle est reliée à la classe Capteurs.
+
+   **Sous-classe Alarme**
+   Cette classe gèrera les différentes alarmes nécessaires en cas de variations de température, pression, humidité... Dès que nos capteurs détecteront des seuils hors des plages acceptables, elle permettra de déclencher une alarme et donc informer le personnel médical.
+
+   **Sous-classe ArretUrgence** 
+   Cette classe s'occupera des protocoles d'arrêt d'urgence. Elle sera capable de mettre la machine hors tension en cas d'urgence.
+
+
+**4) Classe Prévention**
+Cette classe concerne les différents diagnostics et maintenances à réaliser afin de garantir le bon fonctionnement de la machine.
+
+   **Sous-classe Maintenances**
+   Elle gère les tâches de maintenances préventive : elle sera capable de planifier et effectuer des opérations de maintenances régulières. Elle sera également capable de prévenir les utilisateurs lorsqu'il est temps de réaliser une maintenance plus profonde.
+
+   **Sous-classe Diagnostics**
+   Cette sous-classe gère les fonctions d'auto-diagnostics (réalisation de tests internes, détection des défaillances...)
+
+
+**5) Classe Communication**
+Cette classe s'occupera des protocoles de communication avec d'autres systèmes médicaux : elle sera capable d'envoyer et recevoir des données de l'extérieur.
