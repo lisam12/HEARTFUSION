@@ -25,6 +25,13 @@ test unitaire : qui va tester notre programme, jusqu'a quand on injecte, quand o
 + préciser quand les test unitaires sont utilisé.
 + + autre exemple :
  
+**Séance de l'aprem** :
+
+Taches à réaliser aujourd'hui (Kenza et Lisa) : 
+1ère étape : Que doit faire notre objet ?
+2ème : Que ne doit pas faire notre objet ?
+Modélisation du modèle : On reprend les fonctionalités qui existent dans les appreils existants et on défini lesquels on veut garder et lesquels on change = cahier des charges electronique et mécanique. 
+ 
 
 **A faire pour la prochaine séance :**
 
