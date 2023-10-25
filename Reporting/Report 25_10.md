@@ -43,7 +43,9 @@ Initiative : nous avons décidé de créer un document "Normes" dans le dossier 
 
 **A faire pour la prochaine séance :**
 • Pauffiner le dossier des normes
-• 
+• Louis et Emma peuvent checker les fonctionnalités (classes objet) que l'on a décidé de garder et voir si on change ou non
+• Faire une vraie modélisation de notre dispositif ? 
+• Vérifier les valeurs trouvées pour les constantes et contraintes 
 
 
 
