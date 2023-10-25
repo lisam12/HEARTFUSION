@@ -18,7 +18,7 @@ Si on veut injecter plus que prévu sur une pompe à injection, il faut qu'elle 
 **1) Classe MachineMaintienDuCoeur**
 C'est la classe principale, elle représente la machine dans son ensemble et contrôle les liens entre les différents composants.
 
-**2) CLasse Capteurs**
+**2) Classe Capteurs**
 Cette classe permettra de vérifier les paramètres de tous nos différents capteurs
 On va donc créer une sous-classe par capteurs nécessaires au bon fonctionnement de notre DM
 
