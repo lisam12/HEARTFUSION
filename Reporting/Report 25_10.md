@@ -42,6 +42,8 @@ Initiative : nous avons décidé de créer un document "Normes" dans le dossier 
  
 
 **A faire pour la prochaine séance :**
+• Pauffiner le dossier des normes
+• 
 
 
 
