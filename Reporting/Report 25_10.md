@@ -36,7 +36,7 @@ Modélisation du modèle : On reprend les fonctionalités qui existent dans les 
 
 Nous devons mettre en évidence les différents Units Tests à réaliser et penser également aux futurs Units Tests 
 
---> Toutes nos avancées sont dans le document "Description Logiciel" dans le dossier Reporting
+--> Toutes nos avancées sont dans le document "Description Logiciel" ainsi que dans le document "Units Tests" dans le dossier Reporting
  
 
 **A faire pour la prochaine séance :**
