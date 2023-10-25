@@ -11,6 +11,8 @@ Taches à réaliser aujourd'hui :
 Contrainte logiciel (Louis et Emma)
 Commencer la partie logicielle du projet (Kenza et Lisa) 
 Mettre à jour le cahier des charges avec des nouvelles fonctionnalités envisagées (Kenza)
+Regarder la partie programming, tout est expliqué 
+Louis va devoir faire l'audit du groupe de rahel et emilie
 
 logiciel : 
 fonctionnalité de chaque classe du code (sans faire de code) 
