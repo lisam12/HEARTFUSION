@@ -3,7 +3,7 @@
 **Séance du matin :**
 
 Présentation POWER POINT de l'état de l'art
-BILAN : présentation bonne mais pas assez détaillée
+BILAN : présentation bonne mais pas assez détaillée => mieux présenter le contexte actuel (nombre de greffes par an, liste de demande etc...)
 
 Il faut travailler sur la reproduction du modèle physique, en modèle d'une application.
 Pour la prochaine soutenance il faut que notre exposé soit meilleur que celle de marie, halima, emilie.
