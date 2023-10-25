@@ -32,6 +32,9 @@ On va donc créer une sous-classe par capteurs nécessaires au bon fonctionnemen
    **Sous-classe DétecteurPression**
    Cette sous-classe permet de gérer le contrôle de la pression au sein de la machine et vérifier qu'on ne dépasse jamais les seuils préconisés.
 
+   **Sous-classe DétecteurOxygène**
+   Cette sous-classe permet de gérer le contrôle du taux d'oxygène à l'intérieur de la machine.
+
 
 **3) Classe Sécurité**
 Cette classe va permettre de gérer tous les systèmes de sécurité du dispositif
@@ -56,3 +59,8 @@ Cette classe concerne les différents diagnostics et maintenances à réaliser a
 
 **5) Classe Communication**
 Cette classe s'occupera des protocoles de communication avec d'autres systèmes médicaux : elle sera capable d'envoyer et recevoir des données de l'extérieur.
+
+
+
+**6) Classe FréquenceCardiaque**
+Cette classe s'occupera de maintenir une fréquence cardiaque normale tout au long du transport en envoyant des impulsions permettant de faire battre le coeur.
