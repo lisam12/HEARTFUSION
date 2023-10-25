@@ -30,10 +30,17 @@ test unitaire : qui va tester notre programme, jusqu'a quand on injecte, quand o
 Taches à réaliser aujourd'hui (Kenza et Lisa) : 
 1ère étape : Que doit faire notre objet ?
 2ème : Que ne doit pas faire notre objet ?
+Savoir ce que notre dispositif doit être capable de faire / ce qu'il ne doit pas faire (exemple : maintenir le coeur à une fréquence cardiaque normale, fournir un environnement clos...) 
+
 Modélisation du modèle : On reprend les fonctionalités qui existent dans les appreils existants et on défini lesquels on veut garder et lesquels on change = cahier des charges electronique et mécanique. 
+
+Nous devons mettre en évidence les différents Units Tests à réaliser et penser également aux futurs Units Tests 
+
+--> Toutes nos avancées sont dans le document "Description Logiciel" dans le dossier Reporting
  
 
 **A faire pour la prochaine séance :**
+
 
 
 
