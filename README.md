@@ -1,5 +1,18 @@
 # HEARTFUSION
 
-Création d'une machine permettant de transporter un coeur pour une greffe. Cette machine contiendra une sonde d'échographie permettant d'vaoir une cartographie de l'organe.
-Cette machine novatrice permet de faire battre et de perfuser le coeur 
-lors du transport afin d'augementer les chances de réussites de la greffe.
+# Le projet : Appareil de transport de coeur pour une greffe
+
+Création d'une machine permettant de transporter un coeur pour une greffe. 
+Cette machine novatrice permet de faire battre et de perfuser le coeur lors de son transport d'un hopital à un autre.
+Le plus de cette machine est qu'elle permet de réhabiliter un coeur un peu fatigué en réalisant une cartographie 3D 
+pour pouvoir traiter les problèmes ultérieurement.
+
+# Les collaborateurs :
+
+Emma Benech 
+Lisa Milesi 
+Kenza Bouzoubaa
+Louis Studer 
+
+
+
