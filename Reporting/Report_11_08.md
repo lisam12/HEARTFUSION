@@ -22,5 +22,6 @@ Même principe pour la classe _Contrôle des paramètres_.
 
 **• A faire pour la prochaine séance :**
 
-
+Pour Louis et Lisa : Finir le diagramme de classe
+Pour Kenza et Emma: Finir et préciser les units test, mettre au propre le cahier des charges
 
