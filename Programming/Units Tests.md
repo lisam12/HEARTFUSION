@@ -1,12 +1,17 @@
 1. **Tests des Capteurs et des Entrées :**
-   - Vérification des capteurs de température pour s'assurer qu'ils mesurent avec précision la température du cœur.
-   - Tests des capteurs de pression pour garantir qu'ils surveillent correctement la pression dans la machine.
-   - Vérification des entrées utilisateur, y compris les commandes de réglage de la température et de la pression.
+   - Tests sur le capteur de température pour s'assurer qu'il mesure avec précision la température du cœur.
+   - Tests du capteur de pression pour garantir qu'il surveille correctement la pression dans la machine.
+   - Tests du capteur d'humidité pour garantir qu'il mesure correctement l'humidité au sein de la machine.
+   - Tests sur le capteur d'oxygène pour garantir qu'il surveille correctement le taux d'oxygène au sein de la machine.
+   - Vérification des entrées utilisateurs, y compris les commandes de réglage de la température, de la pression, de l'humidité et de l'oxygène.
 
 2. **Tests des Fonctionnalités de Contrôle :**
-   - Vérification du système de régulation de la température pour s'assurer qu'il peut maintenir le cœur à la température requise.
-   - Tests du système de régulation de la pression pour garantir qu'il peut maintenir une pression stable et sûre.
-   - Validation des alarmes en cas de variations de température ou de pression hors des plages acceptables.
+   - Vérification du système de régulation de la température pour s'assurer qu'il peut maintenir le cœur à la température requise. _Plage de vérification_ : 4°C à 8°C. _Précision du capteur_ : + ou - 0.1°C.
+   - Tests du système de régulation de la pression pour garantir qu'il peut maintenir une pression stable et sûre. _Plage de vérification_ : 70 mmHg à 110 mmHg (pour maintenir une pression artérielle physiologique). _Précision du capteur_ : + ou - 2 mmHg.
+   - Vérifications du système de régulation de l'humidité pour garantir qu'il est capable de maintenir une humidité acceptable. _Plage de vérification_ : . _Précision du capteur_ : 
+   - Vérifications du systèmes de régulation de l'oxygène pour garantir qu'il peut maintenir un taux d'oxygène sûre. _Plage de vérification_ : . _Précision du capteur_ : 
+   - Validation des alarmes en cas de variations de température, de pression, d'humidité ou d'oxygène hors des plages acceptables.
+   - Vérifications de la remise des valeurs dans la plage de sûreté après les alarmes + dans un temps acceptable pour le maintien du coeur.
 
 3. **Tests de Communication :**
    - Tests de communication avec les autres systèmes médicaux pour s'assurer que les informations vitales peuvent être partagées correctement.
