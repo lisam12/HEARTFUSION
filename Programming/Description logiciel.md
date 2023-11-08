@@ -64,3 +64,19 @@ Cette classe s'occupera des protocoles de communication avec d'autres systèmes 
 
 **6) Classe FréquenceCardiaque**
 Cette classe s'occupera de maintenir une fréquence cardiaque normale tout au long du transport en envoyant des impulsions permettant de faire battre le coeur.
+
+
+
+**7) Classe Contrôle des paramètres**
+
+    **Sous-classe Température** 
+Cette sous-classe sera chargée de gérer le contrôle de la température. Elle sera dotée de 2 objets : _Chaud_ et _Froid_ qui permettront d'augmenter ou diminuer la température afin qu'elle atteigne la plage de vérification.
+
+    **Sous-classe Pression** 
+Cette sous-classe sera quant à elle chargée de gérer le contrôle de la pression au sein de la machine. Elle sera dotée d'1 seul objet : _Compresseur_ 
+
+    **Sous-classe Humidité** 
+Cette sous-classe sera quant à elle chargée de gérer le contrôle de l'humidité au sein de la machine. Elle sera dotée de 2 objets : _Humidificateur_ et _Déshumidificateur_ permettant de corriger le taux d'humidité.
+
+    **Sous-classe Oxygène** :
+Cette sous-classe sera quant à elle chargée de gérer le contrôle du taux d'oxygène au sein de la machine. Elle sera dotée de 1 seul objet : _Concentrateur d'oxygène_ qui sera capable de réguler le taux d'oxygène. 
