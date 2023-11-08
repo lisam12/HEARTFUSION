@@ -1,4 +1,4 @@
-**Séance du jour 08/11**
+# **Séance du jour 08/11**
 
 • 15 premières minutes --> chacun a fait des recherches sur ce qu'est un diagramme de classe, ces éléments
 
