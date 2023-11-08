@@ -18,3 +18,7 @@ Pour cahier des charges.
 C'est très bien construit, On a bien les fichiers d'introduction , les fonctionnalités, les spécification techniques et les contraintes normatives. Pour finir le plan du projet est explicité.
 
 Pour les contraintes normatives, essayer de chercher plus en détail les normes car la pompe à insuline est branchée au corps du patient, il y a peut etre des normes en plus.
+
+Les comptes rendus sont bien fait, on voit bien qui à fait quoi, les taches réalisées et les taches restantes
+
+Leur diagramme de gant est bien réalisé, on voit la timeline du projet et les différentes étapes franchies et celles qu'il reste à franchir
