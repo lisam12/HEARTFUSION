@@ -19,6 +19,9 @@ Ensuite nous avons mis la classe _Capteurs_ avec comme attributs l'ID et le type
 Même principe pour la classe _Contrôle des paramètres_.
 
 
+**Mise à jour du Diagramme de Gantt**
+
+
 
 **• A faire pour la prochaine séance :**
 
