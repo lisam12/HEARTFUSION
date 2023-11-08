@@ -12,3 +12,9 @@ Pour l'état de l' art, on comprend bien les différents documents comme le poin
 Pour Biologie : On comprend bien comment cela fonctionne dans le corps et l'apport du glucose, de l'insuline et comment ceci est régulé.
 Pour fonctionnement: il y a beaucoup d'informations, compréhensible mais après plusieurs relectures.
 Pour situation: On voit les différents types de pompes à insuline sur le marché avec le systeme traditionnel, en boucle fermée et comment ils fonctionnent avec le capteur de glucose et comment l'ensemble est controlé.
+
+Pour cahier des charges.
+
+C'est très bien construit, On a bien les fichiers d'introduction , les fonctionnalités, les spécification techniques et les contraintes normatives. Pour finir le plan du projet est explicité.
+
+Pour les contraintes normatives, essayer de chercher plus en détail les normes car la pompe à insuline est branchée au corps du patient, il y a peut etre des normes en plus.
