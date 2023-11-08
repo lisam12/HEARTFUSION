@@ -1,6 +1,6 @@
 # Audit PUMPY
 Audit Pumpy par Louis
-Pumpy est le projet d' Emilie e Rahel sur une pompe à insuline
+Pumpy est le projet d' Emilie, Rahel, Oriane et Louis sur une pompe à insuline
 
 Je vais réaliser l'audit de leur projet et de son avancement,
 
