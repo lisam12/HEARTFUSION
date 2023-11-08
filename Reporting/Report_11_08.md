@@ -10,9 +10,17 @@
 Modifications faites à partir des conseils de cet audit
 
 
-• **Lucidcharts**
+• **Lucidcharts - Diagramme de classe**
 
 Louis et Lisa ont commencé la création de notre diagramme de classe sur le programme Lucidcharts afin que cela soit visuellement plus clair.
 
 Première classe que nous avons mis : _HeartFusion_
+Ensuite nous avons mis la classe _Capteurs_ avec comme attributs l'ID et le type de capteurs, l'action est de mesurer. Nous avons créer 4 classes héritages : _Thermostat_, _Pressostat_, _Oxymètre_ et _Hygromètre_.
+Même principe pour la classe _Contrôle des paramètres_.
+
+
+
+**• A faire pour la prochaine séance :**
+
+
 
