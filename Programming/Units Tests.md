@@ -8,8 +8,8 @@
 2. **Tests des Fonctionnalités de Contrôle :**
    - Vérification du système de régulation de la température pour s'assurer qu'il peut maintenir le cœur à la température requise. _Plage de vérification_ : 4°C à 8°C. _Précision du capteur_ : + ou - 0.1°C.
    - Tests du système de régulation de la pression pour garantir qu'il peut maintenir une pression stable et sûre. _Plage de vérification_ : 70 mmHg à 110 mmHg (pour maintenir une pression artérielle physiologique). _Précision du capteur_ : + ou - 2 mmHg.
-   - Vérifications du système de régulation de l'humidité pour garantir qu'il est capable de maintenir une humidité acceptable. _Plage de vérification_ : . _Précision du capteur_ : 
-   - Vérifications du systèmes de régulation de l'oxygène pour garantir qu'il peut maintenir un taux d'oxygène sûre. _Plage de vérification_ : . _Précision du capteur_ : 
+   - Vérifications du système de régulation de l'humidité pour garantir qu'il est capable de maintenir une humidité acceptable. _Plage de vérification_ : entre 94.5% et 95.5% de taux d'humidité. _Précision du capteur_ : 0.5%
+   - Vérifications du systèmes de régulation de l'oxygène pour garantir qu'il peut maintenir un taux d'oxygène sûre. _Plage de vérification_ : entre 95% et 99% d'azote (la concentration d'oxygène doit être inférieure à celle de l'air ambiant pour éviter un excès d'oxygène qui peut entrainer des réactions d'oxydations). _Précision du capteur_ : 0.5%.
    - Validation des alarmes en cas de variations de température, de pression, d'humidité ou d'oxygène hors des plages acceptables.
    - Vérifications de la remise des valeurs dans la plage de sûreté après les alarmes + dans un temps acceptable pour le maintien du coeur.
 
