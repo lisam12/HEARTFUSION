@@ -8,7 +8,7 @@ Kenza et Emma : Re-travailler les units test et ranger le cahier des charges.
 
 **Création du diapo :**
 
-**Le prof explique :**
+**Le prof décrit de le plan de l'oral (fil rouge) :**
 Quel est le problème ? (60% des transportations n'aboutissent pas...)
 Quels sont les solutions existantes ? (Etat de l'art)
 (les solutions que nous on propose : on commence à entrer dans le cahier des charges)
