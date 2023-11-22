@@ -1,6 +1,6 @@
 Ces valeurs sont généralement déterminées après des études approfondies, des essais et des analyses réalisés par des ingénieurs biomédicaux, des chercheurs et des professionnels de la santé. Voici, les valeurs trouvées :
 
-### **Exemples de Valeurs pour les Constantes et Contraintes :**
+### **Valeurs pour les Constantes et Contraintes :**
 
 #### **Plage de Température Acceptable :**
 - **Plage de Température Cible :** 4°C à 8°C (pour le transport du cœur dans un état de préservation pour la greffe).
@@ -25,8 +25,6 @@ Ces valeurs sont généralement déterminées après des études approfondies, d
 #### **Seuils d'Alarme :**
 - **Seuils de Température Alarmante :** Inférieure à 2°C ou supérieure à 10°C (pour signaler des variations extrêmes).
 - **Seuils de Pression Alarmante :** Inférieure à 60 mmHg ou supérieure à 120 mmHg.
-
-Veuillez noter que ces valeurs sont des exemples et peuvent varier en fonction des directives réglementaires spécifiques, des normes de l'industrie, des spécifications du dispositif, et des protocoles médicaux applicables.
 
 Il y a aussi la contrainte des solutions dans lesquelles on plonge le coeur pour préserver l'organe : 
 
