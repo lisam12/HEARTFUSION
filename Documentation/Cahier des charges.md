@@ -10,7 +10,7 @@ Le transport sécurisé des cœurs implantables est d'une importance vitale pour
 
 ### 2. **Spécifications Techniques**
 
-   **Cf document "Constraint on heart transport.md".** et **"Units tests.md"** Ces document reprennent toutes les contraintes techniques avec les seuils de validation des capteurs de température, le taux d'humidité, la fréquence cardiaque...
+   **Cf document "Constantes et Contraintes".** et **"Units tests.md"** Ces document reprennent toutes les contraintes techniques avec les seuils de validation des capteurs de température, le taux d'humidité, la fréquence cardiaque...
 
   Maintenir le cœur en état de battement pendant tout le transport. Cela permet de maintenir un flux sanguin et une oxygénation adéquats, minimisant ainsi l'ischémie froide et préservant la fonction cardiaque.
   
