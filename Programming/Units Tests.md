@@ -56,7 +56,7 @@ Vérification des protocoles d'arrêt d'urgence pour garantir que la machine peu
 Sécurité générale: 
 Tests de sécurité pour vérifier que la machine ne présente aucun danger pour les personnes l'utilisant ou transportant le cœur.
 
-Tests de Maintenance :
+                              **Tests de Maintenance:**
 Auto-diagnostic:
 Vérification des fonctions d'auto-diagnostic pour détecter les éventuelles défaillances internes.
 
