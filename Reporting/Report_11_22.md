@@ -6,7 +6,7 @@ Identifiants pour Diagramme de classe ? (semble très important pour le prof, il
 
 Kenza et Emma : Re-travailler les units test et ranger le cahier des charges. 
 
-   **Création du diapo :**
+**Création du diapo :**
 
 **Le prof explique :**
 Quel est le problème ? (60% des transportations n'aboutissent pas...)
