@@ -20,7 +20,7 @@ Permettre une durée de transport prolongée --> essentiel lorsque les donneurs 
   
   Fournir un environnement de transport optimal pour chaque cœur --> réduire la variabilité entre les donneurs + améliorer la qualité de l'organe transplanté.
 
-### **Valeurs pour les Constantes et Contraintes :**
+### **Valeurs pour les capteurs :**
 
 #### **Plage de Température Acceptable :**
 - **Plage de Température Cible :** 4°C à 8°C (pour le transport du cœur dans un état de préservation pour la greffe).
