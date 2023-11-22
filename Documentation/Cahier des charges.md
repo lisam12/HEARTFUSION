@@ -10,9 +10,13 @@ Le transport sécurisé des cœurs implantables est d'une importance vitale pour
 
 2. **Spécifications Techniques**
 
-   **Cf document "Constraint on heart transport.md".** Ce document reprend toutes les contraintes techniques avec les seuils de validation des capteurs de température, de taux d'humidité, de fréquence cardiaque...
+   **Cf document "Constraint on heart transport.md".** et **"Units tests.md"** Ces document reprennent toutes les contraintes techniques avec les seuils de validation des capteurs de température, le taux d'humidité, la fréquence cardiaque...
 
-   
+  Maintenir le cœur en état de battement pendant tout le transport. Cela permet de maintenir un flux sanguin et une oxygénation adéquats, minimisant ainsi l'ischémie froide et préservant la fonction cardiaque.
+  Evaluation en temps réél --> surveillance de la fonction cardiaque, du débit sanguin, de l'oxygénation et d'autres paramètres permettant à l'équipe médical de réagir rapidement. 
+  Permettre une durée de transport prolongée --> essentiel lorsque les donneurs et les receveurs se trouvent à une distance considérable les uns des autres = cela augmente les possibilités de transplantation en élargissant la portée géographique.
+  Fournir un environnement de transport optimal pour chaque cœur --> réduire la variabilité entre les donneurs + améliorer la qualité de l'organe transplanté.
+
 
 2.1 Conditions de Stockage
 Le système doit maintenir une température entre 36 et 38 °C et une humidité optimale pour garantir la préservation du cœur implantable pendant le transport.
@@ -47,9 +51,3 @@ Toutes les données collectées par la machine doivent être cryptées et stock�
 5. **Échéancier**
 
 **Cf diagramme de Gantt**
-
-**Cf diagramme de Gantt**
-
-
-
-https://docs.google.com/document/d/13QRQsMlds1C6CXO-3vQ6RzdGiUvF2EepzEMFRq1rQls/edit
