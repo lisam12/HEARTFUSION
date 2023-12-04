@@ -6,7 +6,7 @@ Ce cahier des charges, par rapport à l'état de l'art réalisé et aux contrain
 Le but de ce projet est de concevoir, développer et tester un système de transport innovant et fiable pour les cœurs implantables, assurant leur préservation optimale pendant le transit pour les transplantations cardiaques.
 
 #### 1.2 **Contexte**
-Le transport sécurisé des cœurs implantables est d'une importance vitale pour le succès des transplantations cardiaques. Cette machine de transport vise à réduire le temps de transfert, à maintenir une température et une humidité constantes, et à garantir la sécurité de l'organe.
+Le transport sécurisé des cœurs implantables est d'une importance vitale pour le succès des transplantations cardiaques. Cette machine de transport vise à réduire le temps de transfert, à maintenir une température et une humidité constantes, et à garantir la viabilité de l'organe.
 
 ### 2. **Spécifications Techniques**
 
