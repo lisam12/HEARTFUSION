@@ -60,17 +60,13 @@ La recherche sur les organes cultivés en laboratoire, souvent appelée ingénie
 
 L'expérience des équipes médicales, les protocoles chirurgicaux améliorés et l'optimisation des soins post-opératoires jouent également un rôle crucial dans le succès des transplantations d'organes.
 
-
-#### 2.1 Conditions de Stockage
-Le système doit maintenir une température entre 36 et 38 °C et une humidité optimale pour garantir la préservation du cœur implantable pendant le transport.
-
-#### 2.2 Alimentation
+#### 2.1 Alimentation
 La machine doit être alimentée par une source d'énergie interchangeable et fiable, capable de fonctionner en continu pendant au moins 24h sans interruption.
 
-#### 2.3 Technologie de Refroidissement
+#### 2.2 Technologie de Refroidissement
 La machine doit être équipée d'un système de refroidissement avancé, basé sur [indiquez la technologie utilisée], pour maintenir une température stable à l'intérieur de la boîte de transport.
 
-#### 2.4 Système de Surveillance
+#### 2.3 Système de Surveillance
 La machine doit être équipée de capteurs de haute précision pour surveiller en temps réel la température, l'humidité et d'autres paramètres critiques. Ces données doivent être accessibles aux professionnels de la santé via une interface conviviale.
 
 Chaque capteurs doit être définies. 
